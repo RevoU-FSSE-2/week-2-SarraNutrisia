@@ -38,6 +38,8 @@ The HTML Structure for each page is as follows:
 * Footer
 	* Copyright
   
+Layout: 
+  
 ***
 ## 2. CSS File
 There are two CSS file in this theme:
@@ -48,7 +50,7 @@ There are two CSS file in this theme:
 This CSS file is the main stylesheet for the theme. It holds all the values for the different elements of theme and the default color scheme.
 
 ##### responsive.css
-This CSS file contain responsive web design provides an optimal experience, easy reading and easy navigation with a minimum of resizing on different devices such as desktops, mobiles and tabs.
+This CSS file contain responsive web design provides an optimal experience, easy reading and easy navigation with a minimum of resizing on different devices such as tablet and desktop.
 
 ***
 ## 3. JavaScript File
